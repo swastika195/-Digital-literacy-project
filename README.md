@@ -18,6 +18,8 @@
 ## Module 3: Coding & Collaboration – Practicing basic technical skills and using cloud tools for batch-wide engagement.
 ## Task 3: Platforms & Collaboration.
 #### In this task,I explored both the competitive world of coding and the practical side of cloud collaboration. I created an account on HackerRank and completed the "Solve Me First" challenge to get a feel for their environment. Additionally, I used Google Forms to build a "Digital Literacy Awareness Quiz" designed for my fellow students. The quiz includes a mix of multiple-choice and short-answer questions to gauge how much my peers know about staying safe online. Practicing on HackerRank showed me how gamified learning can make technical skill-building more engaging. Meanwhile, building the Google Form and viewing the linked response sheet helped me understand how easily data can be collected and organized for academic research. These tools will be invaluable for future group projects and lab assignments. Being able to seamlessly switch between solving a logic problem and managing a data-driven survey is a core part of the digital versatility I want to develop. 
+#### Googleform[https://docs.google.com/forms/d/e/1FAIpQLSeO-UTZcPMYq17_HCpvR0OQjeFRpf7vh2WqTRfAqL778A3kKA/viewform?usp=dialog]
+#### QuizSpreadsheet[https://docs.google.com/spreadsheets/d/1YWB6k9S89k8UHT_eL7iiCBP1uDxhzBGiFqK1Xr3TMYo/edit?resourcekey=&gid=908406710#gid=908406710]
 
 ## Module 4: Digital Communication – Mastering professional email etiquette and responsible social media habits.
 ## Task 4: Communication & Etiquette.
@@ -25,9 +27,4 @@
 
 ## Module 5: Online Safety – Researching cyber threats and creating prevention guides for the student community.Task 5: Cybercrime Awareness.
 #### I decided to look into **UPI and Online Payment Fraud** for my case study. Since we use UPI for almost everything on campus, it felt like the most practical topic to research.I broke down how scammers use "request" links to trick people into entering their PINs—it’s honestly alarming how simple and effective these traps are.The most surprising thing I learned was that many victims are tech-savvy students who just get caught off guard in a rush .Because of this, I’ve started double-checking the "Verified Merchant" name on every QR code I scan now also made sure to save the National Cyber Crime Helpline (1930) in my phone.It’s one of those things you hope you never need, but as a Digital Ambassador, I feel much better knowing I can guide someone to the right reporting portal if they ever get targeted.
-
-## Task 3- 
-#### Googleform[https://docs.google.com/forms/d/e/1FAIpQLSeO-UTZcPMYq17_HCpvR0OQjeFRpf7vh2WqTRfAqL778A3kKA/viewform?usp=dialog]
-#### QuizSpreadsheet[https://docs.google.com/spreadsheets/d/1YWB6k9S89k8UHT_eL7iiCBP1uDxhzBGiFqK1Xr3TMYo/edit?resourcekey=&gid=908406710#gid=908406710]
-
 
